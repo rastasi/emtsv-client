@@ -1,0 +1,30 @@
+{
+  "name": "emtsv-client",
+  "version": "1.0.0",
+  "description": "Simple axios-based Node.js client for EMTSV",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "form-data": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rastasi/emtsv-client.git"
+  },
+  "keywords": [
+    "emtsv",
+    "emagyar",
+    "lemmatizer",
+    "hungarian"
+  ],
+  "author": "Zsolt Tasnadi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rastasi/emtsv-client/issues"
+  },
+  "homepage": "https://github.com/rastasi/emtsv-client#readme"
+}
